@@ -25,7 +25,7 @@ module.exports = {
         14: '3.5rem',
       },
       fontFamily: {
-        sans: ['InterVariable', ...defaultTheme.fontFamily.sans],
+        mono: ['InterVariable', ...defaultTheme.fontFamily.mono],
       },
       colors: {
         primary: colors.teal,
